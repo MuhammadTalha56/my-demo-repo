@@ -1,2 +1,2 @@
 # my-demo-repo
-This is my demo repository.  
+This is my demo repository on Github. 
